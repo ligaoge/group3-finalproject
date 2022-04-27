@@ -65,7 +65,7 @@ export default function Home({ history }) {
               <CardMedia className={classes.media} image={oski} title="Oski" />
               <CardContent>
                 <Typography type="body1" component="p">
-                  Welcome to the Cal Social home page.
+                  Welcome to the Cal Social home page!
                 </Typography>
               </CardContent>
             </Card>
