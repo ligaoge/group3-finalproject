@@ -15,8 +15,8 @@ const theme = createMuiTheme({
       dark: '#00264D',
       contrastText: '#000',
     },
-      openTitle: teal['700'],
-      protectedTitle: orange['700'],
+      openTitle: '#00264D',
+      protectedTitle: '#00264D',
       type: 'light'
     }
   })
